@@ -1,1 +1,2 @@
 # CoreAnalysis
+Кирилл Лисов
