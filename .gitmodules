@@ -1,3 +1,6 @@
 [submodule "CoreAnalysis-backend"]
 	path = CoreAnalysis-backend
 	url = https://github.com/PracticeProject21/CoreAnalysis-backend.git
+[submodule "CoreAnalysis-frontend"]
+	path = CoreAnalysis-frontend
+	url = https://github.com/PracticeProject21/CoreAnalysis-frontend.git
